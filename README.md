@@ -12,80 +12,31 @@
 ![Followers](https://img.shields.io/github/followers/SatyajitManna4?style=for-the-badge&logo=github&color=24c6dc&labelColor=0f0c29)
 ![Repos](https://img.shields.io/badge/Repos-15-302b63?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0f0c29)
 
-</div>
+<br/><br/>
 
----
-
-## 🧠 &nbsp;About Me
-
-> **Aspiring Software Developer** focused on **Java** and **web development**.
-> I build full-stack apps and learn best by shipping real projects.
-
----
-
-## ⚡ &nbsp;Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode&theme=dark" alt="skills"/>
-
-</div>
-
----
-
-## 🚀 &nbsp;Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 <a href="https://github.com/SatyajitManna4/truck-singh-demo">truck-singh-demo</a></h3>
-      <p>Logistics platform with role-based dashboards for shippers, drivers, owners, agents &amp; admin.</p>
-      <img src="https://img.shields.io/badge/Full--Stack-24c6dc?style=flat-square&labelColor=0f0c29"/>
-      <img src="https://img.shields.io/badge/Dashboards-302b63?style=flat-square&labelColor=0f0c29"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💞 <a href="https://github.com/SatyajitManna4/Plan-and-pair-matrimonial-Apps">Plan-and-Pair</a></h3>
-      <p>Matrimony / matchmaking style application built in Java.</p>
-      <img src="https://img.shields.io/badge/Java-24c6dc?style=flat-square&labelColor=0f0c29"/>
-      <img src="https://img.shields.io/badge/App-302b63?style=flat-square&labelColor=0f0c29"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌦️ <a href="https://github.com/SatyajitManna4/Weather-app">Weather-app</a></h3>
-      <p>Clean weather-checking website powered by JavaScript.</p>
-      <img src="https://img.shields.io/badge/JavaScript-24c6dc?style=flat-square&labelColor=0f0c29"/>
-      <img src="https://img.shields.io/badge/API-302b63?style=flat-square&labelColor=0f0c29"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/SatyajitManna4/Satyajit-Portfolio">Satyajit-Portfolio</a></h3>
-      <p>My personal portfolio website.</p>
-      <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-24c6dc?style=flat-square&labelColor=0f0c29"/>
-      <img src="https://img.shields.io/badge/Portfolio-302b63?style=flat-square&labelColor=0f0c29"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SatyajitManna4&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=d6d6f5&ring_color=24c6dc" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyajitManna4&layout=compact&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=d6d6f5" alt="languages"/>
+<img src="https://raw.githubusercontent.com/SatyajitManna4/SatyajitManna4/main/about.svg" width="100%" alt="About Satyajit and tech stack"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyajitManna4&hide_border=true&background=0f0c29&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc&sideLabels=d6d6f5&currStreakNum=ffffff&sideNums=ffffff&dates=8f8fb5" alt="streak"/>
+<img src="https://raw.githubusercontent.com/SatyajitManna4/SatyajitManna4/main/projects.svg" width="100%" alt="Featured projects"/>
 
-</div>
+<br/>
 
----
+<a href="https://github.com/SatyajitManna4/truck-singh-demo"><img src="https://img.shields.io/badge/truck--singh--demo-open-24c6dc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://github.com/SatyajitManna4/Plan-and-pair-matrimonial-Apps"><img src="https://img.shields.io/badge/Plan--and--Pair-open-24c6dc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://github.com/SatyajitManna4/Weather-app"><img src="https://img.shields.io/badge/Weather--app-open-24c6dc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/></a>
+<a href="https://github.com/SatyajitManna4/Satyajit-Portfolio"><img src="https://img.shields.io/badge/Portfolio-open-24c6dc?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29"/></a>
 
-## 🤝 &nbsp;Let's Connect
+<br/><br/>
 
-<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SatyajitManna4&show_icons=true&hide_border=true&bg_color=0b0a1f&title_color=24c6dc&icon_color=24c6dc&text_color=e6e9ff&ring_color=24c6dc" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyajitManna4&layout=compact&hide_border=true&bg_color=0b0a1f&title_color=24c6dc&text_color=e6e9ff" alt="languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyajitManna4&hide_border=true&background=0b0a1f&ring=24c6dc&fire=24c6dc&currStreakLabel=24c6dc&sideLabels=e6e9ff&currStreakNum=ffffff&sideNums=ffffff&dates=8f8fb5" alt="streak"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your-email-here"><img src="https://img.shields.io/badge/Email-Say%20Hello-24c6dc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29"/></a>
@@ -93,6 +44,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:24c6dc,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:24c6dc,50:302b63,100:0b0a1f&section=footer" width="100%" alt="footer"/>
 
 </div>

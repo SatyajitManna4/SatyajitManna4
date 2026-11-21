@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="About Satyajit and tech stack">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0a1f"/><stop offset="1" stop-color="#0c1a2b"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#24c6dc" stroke-opacity="0.06"/></pattern>
+    <clipPath id="win"><rect width="900" height="290" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
+    .dim { fill:#6f7aa8; font-size:12px; } .key { fill:#24c6dc; font-size:13px; } .val { fill:#e6e9ff; font-size:13px; }
+    .cursor { animation: blink 1s steps(1) infinite; } @keyframes blink { 50% { opacity:0; } }
+    .fade { animation: fade 1s ease-out both; } @keyframes fade { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
+  </style>
+  <g clip-path="url(#win)">
+    <rect width="900" height="290" fill="url(#bg)"/><rect width="900" height="290" fill="url(#grid)"/>
+    <rect width="900" height="36" fill="#000" fill-opacity="0.35"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+    <text x="90" y="22" class="dim">satyajit@developer:~/about</text>
+    <text x="60" y="70" class="key">$</text><text x="76" y="70" class="val">cat about.md</text>
+    <g class="fade">
+      <text x="60" y="98" class="val" font-size="14">Aspiring Software Developer focused on Java and web development.</text>
+      <text x="60" y="120" class="val" font-size="14">I build full-stack apps and learn best by shipping real projects.</text>
+      <text x="60" y="144" class="dim"># currently exploring: AI tools, APIs, clean UI/UX</text>
+    </g>
+    <text x="60" y="190" class="key">$</text><text x="76" y="190" class="val">ls ./stack</text>
+    <g class="fade" style="animation-delay:0.60s"><rect x="60" y="212" width="68" height="30" rx="15" fill="#f89820" fill-opacity="0.12" stroke="#f89820" stroke-opacity="0.7"/><circle cx="74" cy="227" r="4" fill="#f89820"/><text x="85" y="231" class="val" font-size="12">Java</text></g><g class="fade" style="animation-delay:0.72s"><rect x="140" y="212" width="68" height="30" rx="15" fill="#e34f26" fill-opacity="0.12" stroke="#e34f26" stroke-opacity="0.7"/><circle cx="154" cy="227" r="4" fill="#e34f26"/><text x="165" y="231" class="val" font-size="12">HTML</text></g><g class="fade" style="animation-delay:0.84s"><rect x="220" y="212" width="60" height="30" rx="15" fill="#2965f1" fill-opacity="0.12" stroke="#2965f1" stroke-opacity="0.7"/><circle cx="234" cy="227" r="4" fill="#2965f1"/><text x="245" y="231" class="val" font-size="12">CSS</text></g><g class="fade" style="animation-delay:0.96s"><rect x="292" y="212" width="112" height="30" rx="15" fill="#f7df1e" fill-opacity="0.12" stroke="#f7df1e" stroke-opacity="0.7"/><circle cx="306" cy="227" r="4" fill="#f7df1e"/><text x="317" y="231" class="val" font-size="12">JavaScript</text></g><g class="fade" style="animation-delay:1.08s"><rect x="416" y="212" width="50" height="30" rx="15" fill="#f05032" fill-opacity="0.12" stroke="#f05032" stroke-opacity="0.7"/><circle cx="430" cy="227" r="4" fill="#f05032"/><text x="441" y="231" class="val" font-size="12">Git</text></g><g class="fade" style="animation-delay:1.20s"><rect x="478" y="212" width="80" height="30" rx="15" fill="#8b9bff" fill-opacity="0.12" stroke="#8b9bff" stroke-opacity="0.7"/><circle cx="492" cy="227" r="4" fill="#8b9bff"/><text x="503" y="231" class="val" font-size="12">GitHub</text></g><g class="fade" style="animation-delay:1.32s"><rect x="570" y="212" width="88" height="30" rx="15" fill="#24a1f5" fill-opacity="0.12" stroke="#24a1f5" stroke-opacity="0.7"/><circle cx="584" cy="227" r="4" fill="#24a1f5"/><text x="595" y="231" class="val" font-size="12">VS Code</text></g>
+    <text x="60" y="272" class="key">$</text><rect class="cursor" x="76" y="260" width="9" height="15" fill="#24c6dc"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="289" rx="14" fill="none" stroke="#24c6dc" stroke-opacity="0.3"/>
+</svg>

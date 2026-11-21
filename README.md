@@ -1,7 +1,6 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24c6dc&text=Satyajit%20Manna&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Web%20%E2%80%A2%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://raw.githubusercontent.com/SatyajitManna4/SatyajitManna4/main/banner.svg" width="100%" alt="Satyajit Manna - Software Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Never+Give+Up.;Building+full-stack+apps+that+ship.;Learning+AI+%26+modern+web+every+day." alt="Typing SVG" />
@@ -21,16 +20,6 @@
 
 > **Aspiring Software Developer** focused on **Java** and **web development**.
 > I build full-stack apps and learn best by shipping real projects.
-
-```text
-{
-  "name":     "Satyajit",
-  "role":     "Full-Stack Developer (in the making)",
-  "focus":    ["Java", "Web Development", "Role-based Apps"],
-  "exploring": ["AI tools", "APIs", "Clean UI/UX"],
-  "motto":    "Never Give Up."
-}
-```
 
 ---
 

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-label="Satyajit Manna - Software Developer terminal profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0a1f"/>
+      <stop offset="1" stop-color="#0c1a2b"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#7ef0ff"/>
+      <stop offset="0.45" stop-color="#24c6dc"/>
+      <stop offset="1" stop-color="#302b63" stop-opacity="0.2"/>
+    </radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#24c6dc"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#24c6dc" stroke-opacity="0.06"/>
+    </pattern>
+    <clipPath id="win"><rect x="0" y="0" width="900" height="380" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .dim { fill: #6f7aa8; font-size: 12px; }
+    .key { fill: #24c6dc; font-size: 13px; }
+    .val { fill: #e6e9ff; font-size: 13px; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .pulse { transform-origin: 215px 195px; animation: pulse 3.2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.06); } }
+    .spin { transform-origin: 215px 195px; animation: spin 14s linear infinite; }
+    .spin2 { transform-origin: 215px 195px; animation: spin 22s linear infinite reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .scan { animation: scan 4s ease-in-out infinite; }
+    @keyframes scan { 0%,100% { transform: translateY(-70px); } 50% { transform: translateY(70px); } }
+    .fade { animation: fade 1.2s ease-out both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  </style>
+
+  <g clip-path="url(#win)">
+    <rect width="900" height="380" fill="url(#bg)"/>
+    <rect width="900" height="380" fill="url(#grid)"/>
+
+    <!-- window bar -->
+    <rect width="900" height="36" fill="#000000" fill-opacity="0.35"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+    <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+    <circle cx="62" cy="18" r="6" fill="#28c840"/>
+    <text x="90" y="22" class="dim">satyajit@developer:~</text>
+    <text x="812" y="22" class="dim">zsh • online</text>
+
+    <!-- AI orb panel -->
+    <rect x="50" y="64" width="330" height="260" rx="12" fill="#ffffff" fill-opacity="0.025" stroke="#24c6dc" stroke-opacity="0.25"/>
+    <text x="70" y="88" class="dim">// NEURAL.CORE</text>
+    <g class="spin" fill="none" stroke="#24c6dc" stroke-opacity="0.45">
+      <circle cx="215" cy="195" r="100" stroke-dasharray="4 10"/>
+    </g>
+    <g class="spin2" fill="none" stroke="#7b6cff" stroke-opacity="0.55">
+      <circle cx="215" cy="195" r="78" stroke-dasharray="2 8"/>
+      <circle cx="293" cy="195" r="4" fill="#7b6cff" stroke="none"/>
+    </g>
+    <g class="pulse" filter="url(#glow)">
+      <circle cx="215" cy="195" r="52" fill="url(#orb)"/>
+    </g>
+    <g stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.2" fill="#ffffff">
+      <line x1="195" y1="180" x2="235" y2="172"/><line x1="235" y1="172" x2="245" y2="205"/>
+      <line x1="245" y1="205" x2="200" y2="215"/><line x1="200" y1="215" x2="195" y2="180"/>
+      <line x1="195" y1="180" x2="245" y2="205"/>
+      <circle cx="195" cy="180" r="3"/><circle cx="235" cy="172" r="3"/>
+      <circle cx="245" cy="205" r="3"/><circle cx="200" cy="215" r="3"/>
+    </g>
+    <rect class="scan" x="130" y="195" width="170" height="2" fill="#7ef0ff" fill-opacity="0.5"/>
+    <text x="215" y="312" text-anchor="middle" class="val" font-size="12">Software Developer</text>
+
+    <!-- info -->
+    <g class="fade">
+      <text x="430" y="92" font-size="38" font-weight="700" fill="url(#title)">Satyajit Manna</text>
+      <text x="430" y="118" class="key" font-size="15">Aspiring Full-Stack Developer</text>
+      <text x="430" y="146" class="dim">$ cat profile.json</text>
+
+      <text x="430" y="176" class="dim">01</text><text x="462" y="176" class="key">NAME</text><text x="560" y="176" class="val">Satyajit Manna</text>
+      <text x="430" y="200" class="dim">02</text><text x="462" y="200" class="key">ROLE</text><text x="560" y="200" class="val">Software Developer</text>
+      <text x="430" y="224" class="dim">03</text><text x="462" y="224" class="key">FOCUS</text><text x="560" y="224" class="val">Java • Full-Stack Web</text>
+      <text x="430" y="248" class="dim">04</text><text x="462" y="248" class="key">EXPLORING</text><text x="560" y="248" class="val">AI tools • APIs • Clean UI/UX</text>
+      <text x="430" y="272" class="dim">05</text><text x="462" y="272" class="key">MOTTO</text><text x="560" y="272" class="val">Never Give Up.</text>
+      <text x="430" y="296" class="dim">06</text><text x="462" y="296" class="key">STACK</text><text x="560" y="296" class="val">Java • HTML • CSS • JS</text>
+
+      <text x="430" y="332" class="key">$</text>
+      <text x="446" y="332" class="val">building something great</text>
+      <rect class="cursor" x="640" y="320" width="9" height="15" fill="#24c6dc"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="379" rx="14" fill="none" stroke="#24c6dc" stroke-opacity="0.3"/>
+</svg>

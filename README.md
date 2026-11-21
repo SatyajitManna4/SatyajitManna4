@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SatyajitManna4/SatyajitManna4/main/banner.svg?v=2" width="100%" alt="Satyajit Manna - Software Developer"/>
+<img src="https://raw.githubusercontent.com/SatyajitManna4/SatyajitManna4/5f7c966/banner.svg" width="100%" alt="Satyajit Manna - Software Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Never+Give+Up.;Building+full-stack+apps+that+ship.;Learning+AI+%26+modern+web+every+day." alt="Typing SVG" />
